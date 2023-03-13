@@ -9,7 +9,7 @@
       "executor": "@angular-devkit/build-angular:browser",
       "outputs": ["{options.outputPath}"],
       "options": {
-        "outputPath": "dist/apps/kirkify",
+        "outputPath": "docs",
         "index": "apps/kirkify/src/index.html",
         "main": "apps/kirkify/src/main.ts",
         "polyfills": "apps/kirkify/src/polyfills.ts",
